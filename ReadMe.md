@@ -14,3 +14,5 @@ git add -A
 git checkout -- README.md
 =======
 >>>>>>> dc60ddab27317e5075e24e81f8e8bda1619cc42c
+
+ADDED THIS
